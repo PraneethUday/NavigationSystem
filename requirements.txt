@@ -1,0 +1,4 @@
+tkintermapview>=1.0.0,<1.29
+osmnx>=1.7.0
+networkx>=3.0
+geopandas>=0.9.0
